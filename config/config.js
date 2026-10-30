@@ -418,7 +418,7 @@ herramientas: {
                 },
                 {
                     valor: "ZH3",
-                    etiqueta: "Zona Habitacional Alta Densidad",
+                    etiqueta: "Zona Habitacional Baja Densidad",
                     visibleInicial: true,               // Estado inicial de esta categoría.
                     estilo: { fillColor: "#eac009" }
                 },
